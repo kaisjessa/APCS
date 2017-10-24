@@ -12,6 +12,7 @@ public class Fraction {
     num = num * a;
   }
 
+  //multiply two fractions
   public void multiplyFraction(Fraction other) {
     num = num*other.num;
     den = den*other.den;
