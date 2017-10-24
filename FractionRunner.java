@@ -10,6 +10,7 @@ public class FractionRunner {
 
     f2.num = 3;
     f2.den = 4;
+    
 
     System.out.println(f1.num+"/"+f1.den);
     f1.multiply(5);
